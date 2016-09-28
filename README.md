@@ -3,7 +3,7 @@ Simple app for [Twilio SMS Forwarding](http://thinkvoice.net/twilio-sms-forwardi
 
 This is app allows you to forward SMS messages using just URL parameters just as you can forward calls with Twimlets.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/bcoyle73/twilio-sms-forward)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jspilman/twilio-sms-forward)
 
 
 ## Setup with Heroku
